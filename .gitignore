@@ -45,3 +45,6 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+# db - remove this line if you want to keep the db in the repo
+db.sqlite
